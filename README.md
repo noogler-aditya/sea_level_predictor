@@ -12,8 +12,7 @@ This project focuses on analyzing historical data of global average sea level ch
 
 ## 📸 Screenshots
 
-![Visualization]([![temp-Imageaf6-Q3-T.avif](https://i.postimg.cc/prhyYDHJ/temp-Imageaf6-Q3-T.avif)](https://postimg.cc/ctWsdt6v))
-
+[![temp-Imageaf6-Q3-T.avif](https://i.postimg.cc/prhyYDHJ/temp-Imageaf6-Q3-T.avif)](https://postimg.cc/ctWsdt6v)
 
 ## 🛠️ Technologies Used
 
