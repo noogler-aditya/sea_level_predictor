@@ -25,7 +25,7 @@ This project focuses on analyzing historical data of global average sea level ch
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AnClicks/sea_level_predictor.git
+    git clone https://github.com/noogler-aditya/sea_level_predictor.git
     ```
 
 ## 🤝 Contributing
